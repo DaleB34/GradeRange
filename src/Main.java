@@ -10,7 +10,13 @@ public class Main {
         Grade B = new Grade("B+", 87);
         Grade B2 = new Grade("B", 83);
         Grade B3 = new Grade("B-", 80);
-        Grade C = new Grade("C+")
+        Grade C = new Grade("C+", 77);
+        Grade C2 = new Grade("C", 73);
+        Grade C3 = new Grade("C-", 70);
+        Grade D = new Grade("D+", 67);
+        Grade D2 = new Grade("D", 63);
+        Grade D3 = new Grade("D-", 60);
+        Grade F = new Grade("F", 0);
 
 
     }
